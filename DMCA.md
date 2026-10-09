@@ -40,4 +40,13 @@ If material you uploaded was removed or disabled after a notice and you believe 
 
 A complete notice leads to the material being removed or disabled, and the uploader being told. A complete counter-notice is forwarded to the person who sent the notice; the material may be restored no sooner than 10 and no later than 14 business days after we receive the counter-notice, unless that person tells us they have filed a court action. Accounts that repeatedly infringe are terminated.
 
-Our designated agent for notices is reachable at legal@voplica.com; the postal address is on our [Terms of Use](https://voplica.com/terms-of-use).
+## Designated agent
+
+Notices and counter-notices under 17 U.S.C. § 512(c) go to our designated agent:
+
+**Copyright Agent, Voplica**  
+Druzhby Narodiv 202 str, apt. 55  
+61000 Kharkiv  
+Ukraine  
+Telephone: +1 332 242 4192  
+Email: legal@voplica.com
