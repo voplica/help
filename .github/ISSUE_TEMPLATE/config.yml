@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a bug or a vulnerability privately in the studio
+    url: https://voplica.com/support
+    about: The fastest route, open to every account — a Bug report or a Security vulnerability issue on the Support page.
+  - name: Report a security vulnerability
+    url: https://github.com/voplica/help/security/policy
+    about: Never in an issue or a discussion in this repository. Report it privately, as SECURITY.md explains.
+  - name: Ask a question or share an idea
+    url: https://github.com/voplica/help/discussions
+    about: Questions, ideas and everything else that is not a bug go to GitHub Discussions.
+  - name: Direct support in the studio
+    url: https://voplica.com/support
+    about: Private support from the Voplica team — Base and Premium for any question; without a plan for billing, legal and DMCA notices, security vulnerabilities and bugs.

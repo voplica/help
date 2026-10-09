@@ -1,0 +1,45 @@
+name: Bug report
+description: Something in Voplica does not work as it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Never open an issue or a discussion in this repository for a security vulnerability.** Report it privately: open a Security vulnerability issue on the [Support page](https://voplica.com/support) (fastest), email security@voplica.com, or use this repository's Security tab, as the [security policy](https://github.com/voplica/help/security/policy) explains.
+
+        **Faster and private**: sign in to the studio and open a Bug report issue on the [Support page](https://voplica.com/support) — every account can.
+
+        This repository is public. Never post passwords, API keys (they start with `pat_`) or other tokens, payment details, or anyone else's personal data or run IDs. No explicit images and no links to explicit material.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: "The studio page (or the API, or Voplica in Claude or ChatGPT), and your own run ID or item ID if there is one."
+  - type: input
+    id: client
+    attributes:
+      label: Browser or client
+      description: "For example: Chrome on Windows, Safari on iPhone, the API, or Voplica in Claude."
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else
+      description: "Screenshots are welcome, with no explicit material and no one else's personal data."
