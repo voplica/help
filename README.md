@@ -42,6 +42,7 @@ This forum is public: anyone can read what you post. Never post:
 - **Legal questions and DMCA notices**: a Legal and DMCA notices issue in the studio is the fastest route, open to every account. Email to legal@voplica.com works only with the notice form in [DMCA.md](DMCA.md) completed and signed.
 - **Security vulnerabilities**: never in public, so never in an issue or a discussion. A Security vulnerability issue in the studio is the fastest route; [SECURITY.md](SECURITY.md) lists the private routes.
 - **Bugs**: a Bug report issue in the studio (fastest, private), or [GitHub Issues](https://github.com/voplica/help/issues) (public).
+- **Content decisions**: why a request was blocked, what a moderation outcome means and how to appeal are in [Content and safety](SAFETY.md).
 
 ## Who answers
 

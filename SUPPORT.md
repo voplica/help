@@ -8,6 +8,10 @@
 | Legal and DMCA | Everyone, with or without an account | Legal questions, DMCA notices and counter-notices | A Legal and DMCA notices issue in the studio (fastest); or legal@voplica.com with [DMCA.md](DMCA.md) completed and signed | No, private |
 | Security | Everyone | Security vulnerabilities | A Security vulnerability issue in the studio (fastest); or the private routes in [SECURITY.md](SECURITY.md) | No, private |
 
+## Appealing a content decision
+
+Open an issue in the category **Content moderation** on the [Support page](https://voplica.com/support); a moderator will look at it. Direct support in this category is part of the Base and Premium plans. [SAFETY.md](SAFETY.md) explains how our safety systems work and what each moderation outcome means.
+
 ## What to include
 
 - What you did, what you expected and what happened.
