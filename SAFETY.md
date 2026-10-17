@@ -30,7 +30,7 @@ Our safety systems can flag an item, including a private one, and a moderator re
 - **The model produced it without being asked.** The item is taken down. Your account is not affected.
 - **A moderator confirms that you meant to create it.** The item is taken down and your account's standing is reduced.
 
-Repeated violations close the account.
+Repeated violations close the account, and the person may not register again.
 
 ## How do I report content?
 
