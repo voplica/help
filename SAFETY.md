@@ -4,7 +4,7 @@ How Voplica keeps generations within its content rules, and what to do when a re
 
 ## How does Voplica keep the platform safe?
 
-Our own safety systems check prompts, uploaded and referenced images and videos, and generated results. Some checks are run by trusted third-party safety services, which receive the text of your prompt and the reference images you upload for that purpose. Flagged items are reviewed by our moderators.
+Our own safety systems check prompts, uploaded and referenced images and videos, and generated results. Some checks are run by trusted third-party safety services, which receive only text for that purpose: the text you supply, such as your prompts, movie briefs and scripts, dataset captions and trigger words. That text goes to the OpenAI Moderation API and, when that service is unavailable or over its allowance, to TypeSafe's JEV. The images you upload as references are not sent to any third-party safety service: our own systems screen them. Flagged items are reviewed by our moderators.
 
 ## How old do I have to be to use Voplica?
 
