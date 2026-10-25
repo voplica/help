@@ -1,0 +1,50 @@
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Before you post**
+
+        - Search the existing discussions first.
+        - This forum is public. Never post passwords, API keys (they start with `pat_`) or other tokens, payment details, or anyone else's personal data or run IDs.
+        - No explicit images and no links to explicit material.
+        - Private help is listed in [SUPPORT.md](https://github.com/voplica/help/blob/main/SUPPORT.md).
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: attempt
+    attributes:
+      label: What did you try, and what happened?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Images
+        - Video
+        - Audio and voices
+        - Characters and looks
+        - Models and training
+        - Account and billing
+        - API and MCP
+        - Other
+  - type: input
+    id: run-id
+    attributes:
+      label: Run ID (optional — your own run)
+      description: "The run cards in your generation history show it next to a # sign. Never post anyone else's."
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched existing discussions
+          required: true
+        - label: This post contains no personal data, keys or explicit material
+          required: true
